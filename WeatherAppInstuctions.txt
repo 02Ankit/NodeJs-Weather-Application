@@ -1,0 +1,2 @@
+start this weather app by using terminal,
+inside terminal write command projectFolder Structure> nodemon index.py
